@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Axel - Hobbies</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+    <div class="hobbies-container">
+        <h1>Hobbies</h1>
+        <ol>
+            <li>Drawing
+            <li>Gaming
+            <li>Using Udemy I guess
+            <li>Animation
+            <li>3D work
+    </div>
+
+</body>
+
+</html>
